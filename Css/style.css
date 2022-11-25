@@ -328,6 +328,11 @@ body{
     text-decoration: none;
 }
 
+.ulleft{
+    text-align: left;
+    justify-content: left;
+}
+
 .text_botom {
     margin-top: 5%;
     display: inline-block;
